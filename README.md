@@ -7,8 +7,8 @@ Welcome to my portfolio website, a digital showcase of my certifications, profes
 
 ### LINKS
 
-- [QUALIFICATIONS.md](QUALIFICATIONS.md)
-- [PORTFOLIO PROJECTS.md](PORTFOLIO-PROJECTS.md)
-- [MINI PROJECTS.md](MINI-PROJECTS.md)
+- QUALIFICATIONS
+- [PORTFOLIO PROJECTS](PORTFOLIO-PROJECTS.md)
+- [MINI PROJECTS](MINI-PROJECTS.md)
 
 > build in progress
