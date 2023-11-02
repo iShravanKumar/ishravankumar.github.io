@@ -15,3 +15,9 @@
 - Python
 - Statistical Analysis
 - Machine Learning
+
+## [Business Intelligence Reporting](HTML-Pages/Business-Intelligence-Reporting.html)
+
+- Power Query
+- DAX
+- Power BI
