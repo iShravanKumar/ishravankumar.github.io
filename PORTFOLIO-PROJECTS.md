@@ -9,3 +9,9 @@
 - Power Query
 - DAX
 - Power BI
+
+## [Statistical Analysis for User Churn](HTML-Pages/Statistical-Analysis-for-User-Churn.html)
+
+- Python
+- Statistical Analysis
+- Machine Learning
