@@ -14,7 +14,7 @@
 
 - Python
 - Statistical Analysis
-- Machine Learning
+- Predictive Modelling
 
 ## [Business Intelligence Reporting](HTML-Pages/Business-Intelligence-Reporting.html)
 
