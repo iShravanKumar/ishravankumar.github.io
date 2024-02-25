@@ -4,8 +4,9 @@
 
 ## EDUCATION
 
-Bangalore Institute of Technology
 > Bachelor of Engineering in Computer Science - 2023 Graduate
+
+Bangalore Institute of Technology
 
 ## CERTIFICATIONS
 
